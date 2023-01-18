@@ -3,7 +3,7 @@
 # 1 - What is the command for listing the files in the current folder (directory)?
 ls
 # 2 - What is the command for changing directories?
-cd
+cd folloed by the folder you want to go to next.
 # 3 - What is the command for going "up" a folder (to a parent directory)?
 cd .. or cd ~/documents/ or to where you want to go.
 # 4 - What is a quick way to create a new folder?
