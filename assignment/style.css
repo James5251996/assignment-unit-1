@@ -7,14 +7,13 @@ h1 {
     background-color: aquamarine; text-align: center;
 }
 footer {
-    color: aquamarine; text-align: center;
-        }
+    color: aquamarine; text-align: center; }
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
 p { color: aliceblue;} 
 /* Put a border around your image */
-img { border: 5px;}
+img { border: 5px; border-color: aquamarine;}
 /* Change the font-family of your list */
 li { font-family: cursive;}
 ul { font-size: 18px;}
